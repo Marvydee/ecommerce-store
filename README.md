@@ -18,4 +18,4 @@ bit of thinking to get right with the prev state pattern.
     npm start
 
 No API key needed. Stack: React · CSS
-Live → [#](#)
+Live → https://ecomstore.pages.dev/
